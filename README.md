@@ -1,1 +1,1 @@
-# Implement a CI/CD pipeline of containerized application
+# Implement a CI/CD pipeline and Deploy Containerized Application
