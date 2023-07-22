@@ -5,12 +5,6 @@ pipeline {
     }
     stages {
         
-        stage('Git Repository') {
-        
-            steps {
-                git 'https://github.com/DhanushMahadevan/pipeline-project.git'
-            }
-        }
         
          stage('Build Docker Image') {
         
